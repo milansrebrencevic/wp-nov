@@ -1,0 +1,14 @@
+{
+"name": "novi",
+    "description": "nesto",
+    "keywords": ["nesto", "novo"],
+    "license": "MIT",
+    "type": "project",
+
+
+"require": {
+        "php": ">=5.5.9",
+        "vlucas/phpdotenv": "~2.2",
+        "ext-pdo_sqlite": "*"
+}
+}
